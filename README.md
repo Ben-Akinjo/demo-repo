@@ -1,3 +1,3 @@
 # Demo
 
-Lorem Ipso Facto. Lorem Ipso Facto. Lorem Ipso Facto. Something something something else.
+A new message for a new programmer!
